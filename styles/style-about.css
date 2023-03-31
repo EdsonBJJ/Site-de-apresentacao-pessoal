@@ -22,7 +22,8 @@ body {
 }
 
 .cabecalio {
-  padding: 2% 0% 0% 15%;
+  padding: 2% 0% 0% 5%;
+  background-color: var(--cor-tercearia);
 }
 
 .cabecalio__menu {
@@ -90,7 +91,7 @@ body {
 
 .rodape__link {
   text-decoration: none;
-  color: var(--cor-pri);
+  color: var(--cor-primaria);
 }
 
 @media (max-width: 1200px) {
