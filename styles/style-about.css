@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Source+Sans+Pro&display=swap');
 
 :root {
-  --cor-primaria: #2c3333;
-  --cor-secundaria: #CBE4DE;
+  --cor-primaria: #cbe4de;
+  --cor-secundaria: #2c3333;
   --cor-tercearia: #0E8388;
   --cor-hover: #2E4F4F;
 
@@ -81,7 +81,7 @@ body {
   padding: 24px;
   text-align: center;
   font-family: var(--fonte-secundaria);
-  font-size: 1.7rem;
+  font-size: 1rem;
 }
 
 .rodape__email {
